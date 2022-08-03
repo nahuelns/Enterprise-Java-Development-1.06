@@ -1,0 +1,10 @@
+Employee{Nombre='Carlos', Id=120, Puesto='Director comercial', Categoria='Sr', Salario=80000}
+Employee{Nombre='Jose', Id=121, Puesto='Ejecutivo de cuentas', Categoria='Ssr', Salario=55000}
+Employee{Nombre='Alberto', Id=122, Puesto='Cadete', Categoria='Pasante', Salario=20000}
+Employee{Nombre='Mariana', Id=123, Puesto='Ejecutivo de cuentas', Categoria='Sr', Salario=35000}
+Employee{Nombre='Julia', Id=124, Puesto='Secretaria', Categoria='Pasante', Salario=20000}
+Employee{Nombre='Marcos', Id=125, Puesto='Director de operaciones', Categoria='Sr', Salario=70000}
+Employee{Nombre='Alejandro', Id=126, Puesto='Ejecutivo de cuentas', Categoria='Pasante', Salario=18000}
+Employee{Nombre='Paula', Id=127, Puesto='Directora Financiera', Categoria='Sr', Salario=45000}
+Employee{Nombre='Paula', Id=127, Puesto='Directora Financiera', Categoria='Sr', Salario=45000}
+Employee{Nombre='Maria', Id=129, Puesto='Director Operativo', Categoria='Sr', Salario=60000}
